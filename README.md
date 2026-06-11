@@ -31,11 +31,17 @@
 
 ## 🚀 Featured Projects
 
-📌 Oh My OpenSource
+📌 **[Oh My OpenSource](https://github.com/Programmers-Intern-Program/INT1-ohmyopensource-Team03)**
+- AI 기반 오픈소스 기여 도우미
 
-📌 답정너
+📌 **[답정너](https://github.com/prgrms-be-devcourse/NBE8-10-final-Team03)**
+- JWT + Redis 인증/인가
 
-📌 소모품 교체주기 관리 서비스
+📌 **[소모품 교체 주기 관리 서비스](https://github.com/prgrms-be-devcourse/NBE8-10-2-Team04)**
+- Spring Boot 기반 알림 서비스
+
+📌 **[Java → Kotlin 마이그레이션](https://github.com/prgrms-be-devcourse/NBE8-10-3-Team04)**
+- Kotlin 전환 및 인증/인가 리팩토링
 
 ---
 
